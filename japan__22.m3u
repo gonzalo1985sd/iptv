@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ANN News" tvg-logo="https://i.imgur.com/WXjmhdZ.jpg" group-title="JAPAN",ANN News
-plugin://plugin.video.youtube/play/?video_id=coYw-eVU0Ks
-#EXTINF:-1 tvg-id="" tvg-name="BSC24" tvg-logo="https://i.imgur.com/7GzyvgI.jpg" group-title="JAPAN",BSC24
-plugin://plugin.video.youtube/play/?video_id=ZeZ049BUy8Q
 #EXTINF:-1 tvg-id="" tvg-name="CGNTV" tvg-logo="https://i.imgur.com/zilI4I3.jpg" group-title="JAPAN",CGNTV
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GSTV" tvg-logo="https://i.imgur.com/PQPIMEf.jpg" group-title="JAPAN",GSTV
